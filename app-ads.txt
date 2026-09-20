@@ -395,6 +395,10 @@ voisetech.com, 1066, RESELLER
 xandr.com, 17779, RESELLER
 
 zetaglobal.net, 525, RESELLER
+ironsrc.com, 669341, DIRECT
+vungle.com, 6ab036ca8770bfafcf0dce8d, DIRECT, c107d686becd2d77
+google.com, pub-4695754736715298, DIRECT, f08c47fec0942fa0
+tappx.com, q977c586, DIRECT, 9f375a07da0318ec
 
 zmaticoo.com, 5135195, RESELLER
 ayetstudios.com, AYETSTUDIOS, DIRECT
