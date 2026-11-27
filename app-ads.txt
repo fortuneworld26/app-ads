@@ -18,6 +18,7 @@ gitberry.com, 405100012, RESELLER
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
+inmobi.com, c5ea90b665504b0fb1b7ce76e1a71189, DIRECT, 83e75a7ae333ca9d
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
